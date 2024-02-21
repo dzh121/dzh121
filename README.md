@@ -12,7 +12,7 @@ I'm a 17-year-old passionate self-taught programmer, currently diving deep into 
 
 ## 🚀 Projects
 
-### All-In-One-Clock-2.0
+### [All-In-One-Clock-2.0](https://github.com/dzh121/All-In-One-Clock-2.0)
 - **Features:** Touchscreen interface, real-time clock, alarm, temperature readings, weather forecast, timer.
 - **Tech:** Arduino RP2040 Connect, APIs for weather data, JSON.
 - **Achievements:** Recognized as Project of the Month on the Arduino Project Hub.
