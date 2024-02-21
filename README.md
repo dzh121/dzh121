@@ -31,7 +31,3 @@ I'm a 17-year-old passionate self-taught programmer, currently diving deep into 
 ## 📜 Certifications & Awards
 
 - **DeepLearning.AI TensorFlow Developer Specialization** - Coursera (Certificate ID: BFXDYALZYXVH)
----
-
-*“My journey in tech is more than a pursuit of knowledge; it's about making a significant impact in the world of technology.” - [Daniel Ziv Harel]*
-
