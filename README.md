@@ -25,9 +25,10 @@ I'm a 17-year-old passionate self-taught programmer, currently diving deep into 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](#https://www.linkedin.com/in/daniel-ziv-harel-3aa300249/)
+- LinkedIn: [Daniel Ziv Harel](https://www.linkedin.com/in/daniel-ziv-harel-3aa300249/)
 - Email: [danielzivharel@gmail.com](mailto:danielzivharel@gmail.com)
 
 ## 📜 Certifications & Awards
 
 - **DeepLearning.AI TensorFlow Developer Specialization** - Coursera (Certificate ID: BFXDYALZYXVH)
+- **Arduino Project Of The Month** - Arduino (Oct 2023)
