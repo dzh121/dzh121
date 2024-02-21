@@ -16,6 +16,21 @@ I'm a 17-year-old passionate self-taught programmer, currently diving deep into 
 - **Features:** Touchscreen interface, real-time clock, alarm, temperature readings, weather forecast, timer.
 - **Tech:** Arduino RP2040 Connect, APIs for weather data, JSON.
 - **Achievements:** Recognized as Project of the Month on the Arduino Project Hub.
+  
+### [All-In-One-Clock-1.0](https://github.com/dzh121/All-In-One-Clock-1.0)
+- **Description:** An Arduino-based clock featuring time, date, temperature display, alarm, and timer.
+- **Components:** Arduino UNO, 16x2 display, real-time clock module, tactile switches, temperature sensor.
+- **Skills:** Arduino programming, electronics assembly, sensor integration.
+
+### [Bluetooth Light Switch](https://github.com/dzh121/Bluetooth-Light-Switch)
+- **Description:** A versatile light switch controlled via Bluetooth, featuring Arduino Nano, HC-05 Bluetooth module, and a custom mobile app.
+- **Skills:** Electronics design, Arduino programming, Bluetooth connectivity, custom app development.
+- **Application:** Smart home technology, IoT.
+
+### [Remote Lights](https://github.com/dzh121/Remote-lights)
+- **Description:** An innovative project using Arduino Uno to remotely control an LED strip, featuring an IR reader and customizable light patterns.
+- **Skills:** Arduino programming, electronics design, IR remote control integration.
+- **Application:** Home automation, custom lighting solutions.
 
 ## 💼 Professional Goals
 
