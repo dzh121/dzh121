@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 17-year-old passionate self-taught programmer, currently diving deep into the world of Artificial Intelligence and Full stack development. With a strong foundation in languages like Python, C#, C++, Assembly, HTML, CSS, and JavaScript, React I am expanding my horizons in computer science and AI.
+I'm a 17-year-old passionate self-taught programmer, currently diving deep into the world of Artificial Intelligence and Full stack development. With a strong foundation in languages like Python, C#, C++, Assembly, HTML, CSS, React and JavaScript I am expanding my horizons in computer science and AI.
 
 - 🌱 I’m currently pursuing a Bachelor's degree in Computer Science at The Open University.
 - 🏆 Creator of the award-winning **[All-In-One-Clock-2.0](https://github.com/dzh121/All-In-One-Clock-2.0)** project.
