@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 17-year-old passionate self-taught programmer, currently diving deep into the world of Artificial Intelligence. With a strong foundation in languages like Python, C#, C++, Assembly, HTML, CSS, and JavaScript, I am expanding my horizons in computer science and AI.
+I'm a 17-year-old passionate self-taught programmer, currently diving deep into the world of Artificial Intelligence and Full stack development. With a strong foundation in languages like Python, C#, C++, Assembly, HTML, CSS, and JavaScript, React I am expanding my horizons in computer science and AI.
 
 - 🌱 I’m currently pursuing a Bachelor's degree in Computer Science at The Open University.
 - 🏆 Creator of the award-winning **[All-In-One-Clock-2.0](https://github.com/dzh121/All-In-One-Clock-2.0)** project.
@@ -11,6 +11,12 @@ I'm a 17-year-old passionate self-taught programmer, currently diving deep into 
 - 📚 Committed to lifelong learning and innovation in technology.
 
 ## 🚀 Projects
+
+### [Guardian-Eye](https://github.com/dzh121/Guardian-Eye)
+- **Description:** A robust surveillance system enabling users to monitor multiple cameras installed at different locations. The system alerts users with notifications when unknown individuals are detected, offering a 30-second clip for review. It also includes a live feed feature for real-time monitoring.
+- **Features:** Motion detection, real-time alerts, live video feed, recorded clips.
+- **Tech:** Python for video processing, React for the user interface, Node.js for backend services.
+- **Application:** Home and business security, remote surveillance.
 
 ### [All-In-One-Clock-2.0](https://github.com/dzh121/All-In-One-Clock-2.0)
 - **Features:** Touchscreen interface, real-time clock, alarm, temperature readings, weather forecast, timer.
