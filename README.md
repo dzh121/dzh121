@@ -10,6 +10,7 @@
 - 🥈 **Arduino Project Of The Month** - Arduino (October 2023)
 
 ## 🚀 Featured Projects:
+- [Recipe Keeper](https://github.com/dzh121/Recipe_Keeper): Full-stack recipe management app with image uploads, tagging, favorites, and i18n support.
 - [Guardian-Eye](https://github.com/dzh121/Guardian-Eye): Advanced security monitoring system.
 - [All-In-One-Clock-2.0](https://github.com/dzh121/All-In-One-Clock-2.0): Award-winning multifunctional clock.
 
