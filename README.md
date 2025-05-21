@@ -81,4 +81,5 @@ Aspiring software developer looking to specialize in AI and innovative app devel
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dzh121&limit=6&theme=gruvbox&combine_all_yearly_contributions=true)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C51FBWSJ)
 
