@@ -81,5 +81,4 @@ Aspiring software developer looking to specialize in AI and innovative app devel
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dzh121&limit=6&theme=gruvbox&combine_all_yearly_contributions=true)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C51FBWSJ)
-
+<a href='https://ko-fi.com/dzh121' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
